@@ -6,6 +6,8 @@ elasticsearch-rtf plugins into one interface. It is borrowed directly from elast
 
 plugins
 ========
+The following is a list of plugins that needs to be installed.
+
   - Marvel
 
   - Kopf lmenezes/elasticsearch-kopf
