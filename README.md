@@ -6,13 +6,19 @@ elasticsearch-rtf plugins into one interface. It is borrowed directly from elast
 
 plugins
 ========
-Marvel
-Kopf
-head
-bigdesk
-segmentspy
-paramedic
-inquisitor
+  - Marvel
+
+  - Kopf lmenezes/elasticsearch-kopf
+
+  - head mobz/elasticsearch-head
+
+  - bigdesk lukas-vlcek/bigdesk
+
+  - segmentspy polyfractal/elasticsearch-segmentspy
+
+  - paramedic karmi/elasticsearch-paramedic
+
+  - inquisitor polyfractal/elasticsearch-inquisitor
 
 installation
 ============
