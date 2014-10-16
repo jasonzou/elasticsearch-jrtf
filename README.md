@@ -26,6 +26,6 @@ bin/plugin -install jasonzou/elasticsearch-jrtf
 
 run
 ===
-host:9200/_plugin/jrtf
+Use your browser to visit http://host:9200/_plugin/jrtf
 
  
